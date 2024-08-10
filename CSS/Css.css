@@ -1,0 +1,62 @@
+.body{
+    background: url(../Sources/mathematical-geometric-background-vector-gradient-blue-education-remix_53876-114100.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:490px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+.The_Container{
+    background-color: rgba(24, 24, 24, 0.549);
+    width: 50%;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow: 1px 3px 10px gray;
+    position: relative;
+    top: 30px;
+ } 
+.Heading_Word{
+    color: white;
+    font-family: cursive;
+    font-size: 35px;
+    padding-top: 20px;
+    
+}
+.user_values{
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    width: 70%;
+    height: 35px;
+    box-shadow: 1px 3px 3px gray;
+}
+.user_values::placeholder{
+    opacity: 40%;
+    color: black;
+    font-family: monospace;
+    text-align: center;
+    font-size: 20px;
+}
+.Change_Button{
+    margin-top:35px;
+    padding: 5px;
+    background-color: rgba(252, 96, 39, 0.685);
+    border: none;
+    font-family: cursive;
+    border-radius: 5px;
+}
+.Change_Button:hover{
+    cursor: pointer;
+    box-shadow: 1px 3px 5px skyblue ;
+}
+#display{
+    margin-top: 40px;
+    color: white;
+    width: 70%;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
